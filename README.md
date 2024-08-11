@@ -115,9 +115,14 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ## MongoDB Collections
 
-The ER diagram illustrates the relationships between entities like users, posts, comments, and notifications in the MongoDB database.
-
-![ER Diagram](ER_Diagram.png)
+![All DB Collections](readmeImages/allDBCollections.png)
+![User Collection Details](readmeImages/UserCollection.png)
+![Post Collection Details](readmeImages/PostCollection.png)
+![OTP Collection Details](readmeImages/OTPCollection.png)
+![Comment Collection Details](readmeImages/CommentCollection.png)
+![Chat Collection Details](readmeImages/ChatCollection.png)
+![Message Collection Details](readmeImages/MessageCollection.png)
+![Notification Collection Details](readmeImages/NotificationCollection.png)
 
 ## Screenshots From The Screens Of The App
 
