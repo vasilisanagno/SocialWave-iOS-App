@@ -116,7 +116,7 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 ## MongoDB Collections
 
 ### All DB Collections
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="readmeImages/allDBCollections.png" width="431" height="521"/>
 </div>
 ![All DB Collections](readmeImages/allDBCollections.png)
