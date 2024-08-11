@@ -151,7 +151,7 @@ The ER diagram illustrates the relationships between entities like users, posts,
 
 <div float="left">
   <img src="readmeImages/likes.jpg" width="180" height="400" />
-  <img src="readmeImages/mycomments.jpg" width="180" height="400" />
+  <img src="readmeImages/mycomment.jpg" width="180" height="400" />
   <img src="readmeImages/chat.jpg" width="180" height="400" />
   <img src="readmeImages/inbox_chats.jpg" width="180" height="400" />
 </div>
