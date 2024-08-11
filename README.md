@@ -155,7 +155,7 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### Message Collection Details
 <div align="center">
-  <img src="readmeImages/MessageCollection.png" width="300" height="200"/>
+  <img src="readmeImages/MessageCollection.png" width="450" height="200"/>
 </div>
 
 ### Notification Collection Details
