@@ -18,6 +18,11 @@ SocialWave is a fully functional iOS social media application developed using Sw
   - [All DB Collections](#all-db-collections)
   - [User Collection Details](#user-collection-details)
   - [Post Collection Details](#post-collection-details)
+  - [OTP Collection Details](#otp-collection-details)
+  - [Comment Collection Details](#comment-collection-details)
+  - [Chat Collection Details](#chat-collection-details)
+  - [Message Collection Details](#message-collection-details)
+  - [Notification Collection Details](#notification-collection-details)
 - [Screenshots From The Screens Of The App](#screenshots-from-the-screens-of-the-app)
 
 ## Installation
@@ -132,11 +137,31 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 <div align="center">
   <img src="readmeImages/PostCollection.png" width="500" height="200"/>
 </div>
-![OTP Collection Details](readmeImages/OTPCollection.png)
-![Comment Collection Details](readmeImages/CommentCollection.png)
-![Chat Collection Details](readmeImages/ChatCollection.png)
-![Message Collection Details](readmeImages/MessageCollection.png)
-![Notification Collection Details](readmeImages/NotificationCollection.png)
+
+### OTP Collection Details
+<div align="center">
+  <img src="readmeImages/OTPCollection.png" width="500" height="200"/>
+</div>
+
+### Comment Collection Details
+<div align="center">
+  <img src="readmeImages/CommentCollection.png" width="500" height="200"/>
+</div>
+
+### Chat Collection Details
+<div align="center">
+  <img src="readmeImages/ChatCollection.png" width="500" height="200"/>
+</div>
+
+### Message Collection Details
+<div align="center">
+  <img src="readmeImages/MessageCollection.png" width="500" height="200"/>
+</div>
+
+### Notification Collection Details
+<div align="center">
+  <img src="readmeImages/NotificationCollection.png" width="500" height="200"/>
+</div>
 
 ## Screenshots From The Screens Of The App
 
