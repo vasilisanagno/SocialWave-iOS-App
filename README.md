@@ -15,6 +15,9 @@ SocialWave is a fully functional iOS social media application developed using Sw
 - [Usage](#usage)
 - [Backend](#backend)
 - [MongoDB Collections](#mongodb-collections)
+  - [All DB Collections](#all-db-collections)
+  - [User Collection Details](#user-collection-details)
+  - [Post Collection Details](#post-collection-details)
 - [Screenshots From The Screens Of The App](#screenshots-from-the-screens-of-the-app)
 
 ## Installation
@@ -124,8 +127,11 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 <div align="center">
   <img src="readmeImages/UserCollection.png" width="500" height="200"/>
 </div>
-![User Collection Details](readmeImages/UserCollection.png)
-![Post Collection Details](readmeImages/PostCollection.png)
+
+### Post Collection Details
+<div align="center">
+  <img src="readmeImages/PostCollection.png" width="500" height="200"/>
+</div>
 ![OTP Collection Details](readmeImages/OTPCollection.png)
 ![Comment Collection Details](readmeImages/CommentCollection.png)
 ![Chat Collection Details](readmeImages/ChatCollection.png)
