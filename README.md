@@ -122,7 +122,7 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### User Collection Details
 <div align="center">
-  <img src="readmeImages/UserCollection.png" width="500" height="100"/>
+  <img src="readmeImages/UserCollection.png" width="500" height="200"/>
 </div>
 ![User Collection Details](readmeImages/UserCollection.png)
 ![Post Collection Details](readmeImages/PostCollection.png)
