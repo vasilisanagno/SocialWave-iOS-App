@@ -14,8 +14,8 @@ SocialWave is a fully functional iOS social media application developed using Sw
   - [MongoDB Database](#mongodb-database)
 - [Usage](#usage)
 - [Backend](#backend)
-- [ER Diagram](#er-diagram)
-- [Screenshots](#screenshots)
+- [MongoDB Collections](#mongodb-collections)
+- [Screenshots From The Screens Of The App](#screenshots-from-the-screens-of-the-app)
 
 ## Installation
 
@@ -113,24 +113,50 @@ The backend for SocialWave is implemented using Node.js and MongoDB. The `backen
 
 To run the backend, follow the instructions in the [Setup](#setup) section.
 
-## ER Diagram
+## MongoDB Collections
 
 The ER diagram illustrates the relationships between entities like users, posts, comments, and notifications in the MongoDB database.
 
 ![ER Diagram](ER_Diagram.png)
 
-## Screenshots
+## Screenshots From The Screens Of The App
 
 <div float="left">
-  <img src="readmeImages/screen1.png" width="180" height="400" />
-  <img src="readmeImages/screen2.png" width="180" height="400" />
-  <img src="readmeImages/screen3.png" width="180" height="400" />
-  <img src="readmeImages/screen4.png" width="180" height="400" />
+  <img src="readmeImages/login.jpg" width="180" height="400" />
+  <img src="readmeImages/signup.jpg" width="180" height="400" />
+  <img src="readmeImages/otp1.jpg" width="180" height="400" />
+  <img src="readmeImages/reset_pass.jpg" width="180" height="400" />
 </div>
 
 <div float="left">
-  <img src="readmeImages/screen5.png" width="180" height="400" />
-  <img src="readmeImages/screen6.png" width="180" height="400" />
-  <img src="readmeImages/screen7.png" width="180" height="400" />
-  <img src="readmeImages/screen8.png" width="180" height="400" />
+  <img src="readmeImages/reset_pass2.jpg" width="180" height="400" />
+  <img src="readmeImages/reset_pass4.jpg" width="180" height="400" />
+  <img src="readmeImages/home.jpg" width="180" height="400" />
+  <img src="readmeImages/home_suggest_friends.jpg" width="180" height="400" />
+</div>
+
+<div float="left">
+  <img src="readmeImages/multiple_photos_post.jpg" width="180" height="400" />
+  <img src="readmeImages/edit_post.jpg" width="180" height="400" />
+  <img src="readmeImages/edit_profile.jpg" width="180" height="400" />
+  <img src="readmeImages/search.jpg" width="180" height="400" />
+</div>
+
+<div float="left">
+  <img src="readmeImages/requests.jpg" width="180" height="400" />
+  <img src="readmeImages/profile_user.jpg" width="180" height="400" />
+  <img src="readmeImages/profile_not_friend.jpg" width="180" height="400" />
+  <img src="readmeImages/posts_list.jpg" width="180" height="400" />
+</div>
+
+<div float="left">
+  <img src="readmeImages/likes.jpg" width="180" height="400" />
+  <img src="readmeImages/mycomments.jpg" width="180" height="400" />
+  <img src="readmeImages/chat.jpg" width="180" height="400" />
+  <img src="readmeImages/inbox_chats.jpg" width="180" height="400" />
+</div>
+
+<div float="left">
+  <img src="readmeImages/new_message.jpg" width="180" height="400" />
+  <img src="readmeImages/notifications.jpg" width="180" height="400" />
 </div>
