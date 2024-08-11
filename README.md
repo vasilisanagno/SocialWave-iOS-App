@@ -117,9 +117,13 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### All DB Collections
 <div align="center">
-  <img src="readmeImages/allDBCollections.png" width="431" height="521"/>
+  <img src="readmeImages/allDBCollections.png" width="331" height="421"/>
 </div>
-![All DB Collections](readmeImages/allDBCollections.png)
+
+### User Collection Details
+<div align="center">
+  <img src="readmeImages/UserCollection.png" width="500" height="300"/>
+</div>
 ![User Collection Details](readmeImages/UserCollection.png)
 ![Post Collection Details](readmeImages/PostCollection.png)
 ![OTP Collection Details](readmeImages/OTPCollection.png)
