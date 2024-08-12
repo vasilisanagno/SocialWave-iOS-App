@@ -29,9 +29,9 @@ SocialWave is a fully functional iOS social media application developed using Sw
 
 Clone the repository to your local machine:
 
-\`\`\`bash
-git clone https://github.com/yourusername/SocialWaveApp.git
-\`\`\`
+```bash
+git clone https://github.com/vasilisanagno/SocialWave-iOS-App.git
+```
 
 ## Features
 
@@ -46,10 +46,12 @@ git clone https://github.com/yourusername/SocialWaveApp.git
 
 ## Technologies Used
 
-- **Xcode** for iOS app development
+- **Xcode** and **SwiftUI** for iOS app development
 - **Node.js** for the backend server
 - **MongoDB** for the database
 - **Socket.IO** for real-time communication
+- **JWT(JSON Web Tokens)** for authentication
+- **OTP(One-Time Password)** for email verification
 
 ## Folder Structure
 
@@ -58,25 +60,31 @@ The project is organized as follows:
 ### Backend
 
 - `backend`: Contains server-related files.
-  - `server.js`: Main server file.
-  - `config`: Configuration files for the database connection.
-  - `api`: API routes and controllers for database interactions.
+  - `src/server.js`: Main server file.
+  - `src/config`: Configuration files for the database connection.
+  - `src/api`: API routes and controllers for database interactions.
     - `controllers`: Functions handling API requests.
     - `models`: MongoDB models for User, Post, Comment, etc.
     - `routes`: Defines API routes.
     - `services`: Functions for database queries.
-    - `utils`: Utility functions for various backend tasks.
+    - `socketListeners`: Contains the listeners for sockets/real-time chat and notifications.
 - `creationOfDatabase`: Python script for populating the database with random data.
 
 ### Frontend
 
 - `SocialWave`: Contains the iOS app's frontend code.
-  - `SocialWaveApp`: Main app folder.
-    - `Views`: Contains SwiftUI views for different screens.
-    - `Models`: Data models for the app.
-    - `ViewModels`: Logic and state management for each screen.
-    - `Networking`: Handles API calls to the backend server.
-    - `Utilities`: Utility functions and constants.
+  - `SocialWave`: Main app folder.
+    - `ui`: Contains SwiftUI views for different screens/shared classes.
+      - `components`: UI components for screens.
+      - `screens`: Views and ViewModels(logic and state management for each screen) for different screens.
+    - `models`: Data models for the app that are used in the Views.
+    - `data`: Handles API calls to the backend server.
+      - `model`: Response Classes from the API calls.
+      - `network`: Interfaces and Classes for communication with the endpoints of the backend.
+      - `repository`: Classes for decoding data from services.
+      - `utils`: Contains configurations for HTTPS connection.
+    - `di`: Contains file for the dependency injection.
+    - `utils`: Utility functions and constants.
 
 ## Setup
 
@@ -90,15 +98,15 @@ The project is organized as follows:
 1. Navigate to the `backend` folder.
 2. Install the required Node.js packages:
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 3. Start the server:
 
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 ### MongoDB Database
 
@@ -106,9 +114,9 @@ npm start
 2. Obtain the connection string and update the `creationOfDatabase.py` script and `DatabaseConfig.js` file with your MongoDB credentials.
 3. Populate the database by running:
 
-\`\`\`bash
+```bash
 python creationOfDatabase.py
-\`\`\`
+```
 
 ## Usage
 
