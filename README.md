@@ -177,38 +177,39 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
   <img src="readmeImages/login.jpg" width="180" height="400" />
   <img src="readmeImages/signup.jpg" width="180" height="400" />
   <img src="readmeImages/otp1.jpg" width="180" height="400" />
-  <img src="readmeImages/reset_pass.jpg" width="180" height="400" />
+  <img src="readmeImages/email_verify.jpg" width="180" height="400" />
 </div>
 
 <div float="left">
+  <img src="readmeImages/reset_pass.jpg" width="180" height="400" />
   <img src="readmeImages/reset_pass2.jpg" width="180" height="400" />
   <img src="readmeImages/reset_pass4.jpg" width="180" height="400" />
   <img src="readmeImages/home.jpg" width="180" height="400" />
-  <img src="readmeImages/home_suggest_friends.jpg" width="180" height="400" />
 </div>
 
 <div float="left">
+  <img src="readmeImages/home_suggest_friends.jpg" width="180" height="400" />
   <img src="readmeImages/multiple_photos_post.jpg" width="180" height="400" />
   <img src="readmeImages/edit_post.jpg" width="180" height="400" />
   <img src="readmeImages/edit_profile.jpg" width="180" height="400" />
-  <img src="readmeImages/search.jpg" width="180" height="400" />
 </div>
 
 <div float="left">
+  <img src="readmeImages/search.jpg" width="180" height="400" />
   <img src="readmeImages/requests.jpg" width="180" height="400" />
   <img src="readmeImages/profile_user.jpg" width="180" height="400" />
   <img src="readmeImages/profile_not_friend.jpg" width="180" height="400" />
-  <img src="readmeImages/posts_list.jpg" width="180" height="400" />
 </div>
 
 <div float="left">
+  <img src="readmeImages/posts_list.jpg" width="180" height="400" />
   <img src="readmeImages/likes.jpg" width="180" height="400" />
   <img src="readmeImages/mycomment.jpg" width="180" height="400" />
   <img src="readmeImages/chat.jpg" width="180" height="400" />
-  <img src="readmeImages/inbox_chats.jpg" width="180" height="400" />
 </div>
 
 <div float="left">
+  <img src="readmeImages/inbox_chats.jpg" width="180" height="400" />
   <img src="readmeImages/new_message.jpg" width="180" height="400" />
   <img src="readmeImages/notifications.jpg" width="180" height="400" />
 </div>
