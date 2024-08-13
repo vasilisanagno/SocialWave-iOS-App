@@ -158,7 +158,7 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### Chat Collection Details
 <div align="center">
-  <img src="readmeImages/ChatCollection.png" width="500" height="200"/>
+  <img src="readmeImages/ChatCollection.png" width="500" height="180"/>
 </div>
 
 ### Message Collection Details
