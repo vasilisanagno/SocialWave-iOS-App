@@ -148,7 +148,7 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### OTP Collection Details
 <div align="center">
-  <img src="readmeImages/OTPCollection.png" width="500" height="200"/>
+  <img src="readmeImages/OTPCollection.png" width="500" height="150"/>
 </div>
 
 ### Comment Collection Details
