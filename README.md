@@ -143,7 +143,7 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### Post Collection Details
 <div align="center">
-  <img src="readmeImages/PostCollection.png" width="400" height="150"/>
+  <img src="readmeImages/PostCollection.png" width="400" height="100"/>
 </div>
 
 ### OTP Collection Details
