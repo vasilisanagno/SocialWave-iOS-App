@@ -168,7 +168,7 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### Notification Collection Details
 <div align="center">
-  <img src="readmeImages/NotificationCollection.png" width="500" height="200"/>
+  <img src="readmeImages/NotificationCollection.png" width="500" height="150"/>
 </div>
 
 ## Screenshots From The Screens Of The App
