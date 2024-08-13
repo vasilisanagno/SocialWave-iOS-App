@@ -153,7 +153,7 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### Comment Collection Details
 <div align="center">
-  <img src="readmeImages/CommentCollection.png" width="500" height="200"/>
+  <img src="readmeImages/CommentCollection.png" width="300" height="100"/>
 </div>
 
 ### Chat Collection Details
