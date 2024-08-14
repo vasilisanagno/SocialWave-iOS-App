@@ -133,42 +133,42 @@ To run the backend, follow the instructions in the [Setup](#setup) section.
 
 ### All DB Collections
 <div align="center">
-  <img src="readmeImages/allDBCollections.png" width="351" height="421"/>
+  <img src="readmeImages/allDBCollections.png"/>
 </div>
 
 ### User Collection Details
 <div align="center">
-  <img src="readmeImages/UserCollection.png" width="600" height="200"/>
+  <img src="readmeImages/UserCollection.png"/>
 </div>
 
 ### Post Collection Details
 <div align="center">
-  <img src="readmeImages/PostCollection.png" width="400" height="140"/>
+  <img src="readmeImages/PostCollection.png"/>
 </div>
 
 ### OTP Collection Details
 <div align="center">
-  <img src="readmeImages/OTPCollection.png" width="500" height="150"/>
+  <img src="readmeImages/OTPCollection.png"/>
 </div>
 
 ### Comment Collection Details
 <div align="center">
-  <img src="readmeImages/CommentCollection.png" width="300" height="100"/>
+  <img src="readmeImages/CommentCollection.png"/>
 </div>
 
 ### Chat Collection Details
 <div align="center">
-  <img src="readmeImages/ChatCollection.png" width="500" height="180"/>
+  <img src="readmeImages/ChatCollection.png"/>
 </div>
 
 ### Message Collection Details
 <div align="center">
-  <img src="readmeImages/MessageCollection.png" width="300" height="100"/>
+  <img src="readmeImages/MessageCollection.png"/>
 </div>
 
 ### Notification Collection Details
 <div align="center">
-  <img src="readmeImages/NotificationCollection.png" width="500" height="150"/>
+  <img src="readmeImages/NotificationCollection.png"/>
 </div>
 
 ## Screenshots From The Screens Of The App
